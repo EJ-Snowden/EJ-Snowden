@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Logify App<br>🌱 I’m currently geeting deep into Android Development<br>🎓 I'm currently studying at PJATK
+🔭 I’m currently working on Tracy<br>🌱 I’m currently geeting deep into .NET Backend Development<br>🎓 I'm currently studying at PJATK
 
 
 ## 🌐 Socials:
