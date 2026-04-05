@@ -11,9 +11,13 @@
 
 ---
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denys-shulhin-a62709254)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EJ-Snowden)
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=EJ-Snowden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=EJ-Snowden&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Snowden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -59,21 +63,17 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=EJ-Snowden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=EJ-Snowden&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Snowden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 # ⚡ Current Focus
 🚀 Building scalable **.NET backend architectures**  
 ⚡ Designing **high-performance REST APIs**  
 📱 Developing **Android applications with Kotlin**  
 🧠 Experimenting with **new backend patterns and distributed systems**
+
+---
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denys-shulhin-a62709254)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EJ-Snowden)
 
 ---
 
