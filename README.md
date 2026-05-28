@@ -13,11 +13,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=EJ-Snowden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=EJ-Snowden&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&cache_seconds=86400)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EJ-Snowden&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Snowden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Snowden&theme=dark&hide_border=false&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=86400)
 
 ---
 
